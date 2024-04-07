@@ -1,0 +1,65 @@
+.orane{
+    color: orange;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: blue;
+}
+.brnma{
+    color: rgb(51, 198, 105);
+}
+.red{
+    color: orange;
+}
+.brbalo{
+    color: orange;
+}
+.xaa{
+    color: red;
+}
+#xmm{
+    color: aqua;
+}
+.xop{
+    color: orange;
+}
+.smth{
+    color: orange;
+}
+#abc{
+    color: blueviolet;
+}
+.qwe{
+    color: orange;
+}
+.qaz{
+    color: aqua;
+}
+.wer{
+    color: red;
+    font-size: larger;
+}
+.qzz{
+    color: aqua;
+    font-size: larger;
+}
+a{
+    text-decoration: none;
+}
+.xcc{
+    width: 300px;
+    border: 5px solid;
+    border-color: green;
+    border-radius: 5%;
+}
+.xzz{
+    width: 50px;
+}
+.test{
+    color: green;
+}
+.button{
+    background-color: red;
+}
